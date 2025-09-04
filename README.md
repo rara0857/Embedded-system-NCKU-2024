@@ -1,1 +1,1 @@
-"# Embedding-system-NCKU-2024" 
+"# Embedded-system-NCKU-2024" 
